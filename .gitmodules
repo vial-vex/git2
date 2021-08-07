@@ -1,0 +1,3 @@
+[submodule "git3"]
+	path = git3
+	url = git@github.com:vial-vex/git3.git
